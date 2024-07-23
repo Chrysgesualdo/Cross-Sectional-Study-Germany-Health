@@ -1,14 +1,4 @@
-# Cross-Sectional Study – Germany Health
-
-
-## Techniques Used
-
-- **Cross-Sectional Survey Design**
-- **Descriptive Statistics**
-- **Data Collection via Online Questionnaires**
-- **ANCOVA**
-- **Moderation and Hierarchical Regression Analyses**
-- **SPSS Statistics Software**
+# Project Title: Cross-Sectional Study – Germany Health
 
 ## Summary
 
